@@ -1991,7 +1991,7 @@
 	name="Ali" # Zayn al-Abidin
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33912
 	trait="sayyid"
 	659.1.1={
@@ -2006,7 +2006,7 @@
 	name="Muhammad" # al-Baqir
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33913
 	trait="sayyid"
 	676.1.1={
@@ -2021,7 +2021,7 @@
 	name="Jafar" # al-Sadiq
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33914
 	trait="sayyid"
 	702.4.20={
@@ -2036,7 +2036,7 @@
 	name="Ismail" # The Sixth Ismaili Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33915
 	trait="sayyid"
 	721.1.1={
@@ -2051,7 +2051,7 @@
 	name="Muhammad"
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33916
 	trait="sayyid"
 	740.1.1={
@@ -2066,7 +2066,7 @@
 	name="Abdullah" # Ahmad al-Wafi - the Eighth Ismaili Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33917
 	trait="sayyid"
 	795.1.1={
@@ -2081,7 +2081,7 @@
 	name="Ahmed" # Muhammad at-Taqi - the Ninth Ismaili Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33918
 	trait="sayyid"
 	814.1.1={
@@ -2096,7 +2096,7 @@
 	name="Hussayn" # Rabi Abdullah - the Tenth Ismaili Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33919
 	trait="sayyid"
 	834.1.1={
@@ -6451,7 +6451,7 @@
 	name="Musa" 
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33915
 	trait="sayyid"
 	745.11.6={
@@ -6466,7 +6466,7 @@
 	name="Ali" 
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=163022
 	trait="sayyid"
 	765.12.9={
@@ -6481,7 +6481,7 @@
 	name="Muhammad" 
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=163023
 	trait="sayyid"
 	811.4.8={
@@ -6496,7 +6496,7 @@
 	name="Ali" 
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=163024
 	trait="sayyid"
 	828.1.1={
@@ -6512,7 +6512,7 @@
 	name="Hasan" 
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=163025
 	trait="sayyid"
 	846.12.1={
@@ -6527,7 +6527,7 @@
 	name="Mahdi" 
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=163026
 	trait="sayyid"
 	869.7.29={
@@ -6752,7 +6752,7 @@
 	name="Muhammad" # Kaysanite Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33911
 	mother=33921
 	trait="sayyid"
@@ -6768,7 +6768,7 @@
 	name="Zayd" # Zaidi Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33913
 	trait="sayyid"
 	695.1.1={
@@ -6783,7 +6783,7 @@
 	name="Abdullah" # Fathite Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=33915
 	trait="sayyid"
 	720.1.1={
@@ -6798,7 +6798,7 @@
 	name="Muhammad" #Muhammadite Imam
 	dynasty=589
 	religion="shiite"
-	culture="bedouin_arabic"
+	culture="maghreb_arabic"
 	father=163025
 	trait="sayyid"
 	848.1.1={
